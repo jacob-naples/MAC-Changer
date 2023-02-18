@@ -1,0 +1,4 @@
+to run the code, open CMD and enter python3 mac_changer.py and use -i to enter the interface and -m to enter teh mac you want to change to
+
+-i or --interface is where you will enter the interface you want to change the mac address
+-m or --mac is where you will enter the mac address that you want to change to 
